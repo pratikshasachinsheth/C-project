@@ -1,0 +1,7 @@
+Student Management System
+MIS NO.:- 141503013
+NAME:- Pratiksha Sachin Sheth
+  
+	This project is about "Student Managment System". This project is developed in c language. File handling is used for storing and retrieving data and to perform other operation.The project is divided into two modules, staff and student. They logged in system by using username and password.For staff username and password is predefined. And for student username and password is their MIS ID. Staff perform the operation such as insert data of student, delete data, update data, sort, searrch student, enter marks of student, count total and average of marks, and some other operation.
+	Their are some operation which is performed by student also. Such as view information,sort,search.
+ 
